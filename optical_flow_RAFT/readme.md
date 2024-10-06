@@ -17,4 +17,11 @@ Install my-project with npm
 
 https://github.com/user-attachments/assets/bb709a78-6d3d-48a4-a470-f6d451dabb3c
 
+## References
+
+- [@pytorch raft](https://pytorch.org/vision/0.12/auto_examples/plot_optical_flow.html)
+
+- [@research paper](https://arxiv.org/abs/2003.12039)
+
+
 
