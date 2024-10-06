@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+numpy
+glob
+gradio
+shutil
+os
